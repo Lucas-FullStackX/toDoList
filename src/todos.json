@@ -1,0 +1,26 @@
+{
+    "todos":[
+    {
+        "title": "Tarea 1",
+        "responsible": "Diego",
+        "description": "comprar palomitas",
+        "priority": "low"
+    },
+        {"title": "Tarea 2",
+        "responsible": "Tony",
+        "description": "Ir de viaje",
+        "priority": "medium"
+    },
+        {"title": "Tarea 3",
+        "responsible": "Martina",
+        "description": "Dar clases",
+        "priority": "high"
+    },
+        {"title": "Tarea 4",
+        "responsible": "Franco",
+        "description": "Explicar Full",
+        "priority": "higher"
+    }
+    ]
+    
+}
